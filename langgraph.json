@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    "agents/classification_agent.py",
+    "main.py",
+    "tools/shared_tools.py"
+  ],
+  "graphs": {
+    "tutor": "main:graph"
+  },
+
+  "env": ".env"
+}
